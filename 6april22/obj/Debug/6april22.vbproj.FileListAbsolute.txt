@@ -1,0 +1,13 @@
+C:\Visual Basic\6april22\6april22\bin\Debug\6april22.exe.config
+C:\Visual Basic\6april22\6april22\bin\Debug\6april22.exe
+C:\Visual Basic\6april22\6april22\bin\Debug\6april22.pdb
+C:\Visual Basic\6april22\6april22\bin\Debug\6april22.xml
+C:\Visual Basic\6april22\6april22\obj\Debug\6april22.vbproj.AssemblyReference.cache
+C:\Visual Basic\6april22\6april22\obj\Debug\6april22.vbproj.SuggestedBindingRedirects.cache
+C:\Visual Basic\6april22\6april22\obj\Debug\_6april22.Form1.resources
+C:\Visual Basic\6april22\6april22\obj\Debug\_6april22.Resources.resources
+C:\Visual Basic\6april22\6april22\obj\Debug\6april22.vbproj.GenerateResource.cache
+C:\Visual Basic\6april22\6april22\obj\Debug\6april22.vbproj.CoreCompileInputs.cache
+C:\Visual Basic\6april22\6april22\obj\Debug\6april22.exe
+C:\Visual Basic\6april22\6april22\obj\Debug\6april22.xml
+C:\Visual Basic\6april22\6april22\obj\Debug\6april22.pdb
